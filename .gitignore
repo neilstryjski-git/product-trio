@@ -1,0 +1,12 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Local AI tool config
+.claude/
+.gemini/
+
+# Project Pillar files (your Bedrock lives in your project repo, not here)
+productdocuments/*.md
+!productdocuments/README.md
